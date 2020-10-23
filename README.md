@@ -3,10 +3,10 @@
 ## Demo site
 Link to **[demo](http://www.github.io)** site for preview.
 ## Dependecies
-\<link rel="stylesheet" href="./styles/style.css">
-<link rel="stylesheet" href="./styles/normalize.css">\
+    \<link rel="stylesheet" href="./styles/normalize.css">
+    <link rel="stylesheet" href="./styles/style.css">\
 ## Implementation
-    \<!DOCTYPE html>
+\<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,6 +15,7 @@ Link to **[demo](http://www.github.io)** site for preview.
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/style.css">
 </head>\
+
 ## Usage
 This basic typography library can be used for a various different projects. 
 Changed elements: 
