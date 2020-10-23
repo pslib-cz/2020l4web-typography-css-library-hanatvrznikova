@@ -3,10 +3,10 @@
 ## Demo site
 Link to **[demo](http://www.github.io)** site for preview.
 ## Dependecies
-    \<link rel="stylesheet" href="./styles/normalize.css">
-    <link rel="stylesheet" href="./styles/style.css">\
+    <link rel="stylesheet" href="./styles/normalize.css">
+    <link rel="stylesheet" href="./styles/style.css">
 ## Implementation
-\<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -14,7 +14,7 @@ Link to **[demo](http://www.github.io)** site for preview.
     <title>Typography</title>
     <link rel="stylesheet" href="./styles/normalize.css">
     <link rel="stylesheet" href="./styles/style.css">
-</head>\
+</head>
 
 ## Usage
 This basic typography library can be used for a various different projects. 
@@ -27,13 +27,13 @@ Changed elements:
   
 ## Components
 ### Using images: 
-        \<figure>
+        <figure>
             <img src="./" alt="name">
             <figcaption>description</figcaption>
-        </figure>\
+        </figure>
         
 ### Using tables: 
-        \<table>
+        <table>
             <tr>
                 <th>hello</th>
                 <th>hello</th>
@@ -41,12 +41,12 @@ Changed elements:
                 <th>hello</th>
                 <th>hello</th>
             </tr>
-        </table>\
+        </table>
 
 ### Using the first type of button: 
-        \<div class="button">
+        <div class="button">
             <a href="#">hello</a>
-        </div>\
+        </div>
 
 ### Using the second type of button: 
         <div class="button button2">
