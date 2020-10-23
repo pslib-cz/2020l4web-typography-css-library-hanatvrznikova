@@ -49,6 +49,8 @@ Changed elements:
         </div>\
 
 ### Using the second type of button: 
-        '''<div class="button button2">
+        ```
+        <div class="button button2">
             <a href="#">hello</a>
-        </div>'''
+        </div>
+        ```
